@@ -1,0 +1,18 @@
+table {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid blue;
+    height: 50px;
+    weight: 30px;
+    border-style: dashed;
+}
+
+tr {
+    background-color: lightcoral;
+}
